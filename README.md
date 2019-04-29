@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+blah blah blah, stuff about me
